@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  💼 Software Developer |  🎓 Pursuing Master's in Computer Science at Northeastern University
 ----------------------------------------------------------------------------------------------
 
-🚀 Ambitious engineer with a passion for problem solving using computer science and on a mission to drive innovation in the world of software development.
+🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
-👨‍💻 Actively seeking Software/Full-Stack Development internship opportunities for Spring/Summer 2024
+👨‍💻 Actively seeking Software/Full-Stack Development internship opportunities starting Spring/Summer 2024
 
 * 💡  Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
 * 🌍  I'm based in Boston, Massachusetts.
