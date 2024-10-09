@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sukruth M S
+Hi there! I'm Sukruth M S
 ======================================================================================================================================================
 
  💼 Software Developer |  🎓 Pursuing Master's in Computer Science at Northeastern University
@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
-👨‍💻 Actively seeking Software/Full-Stack Development internship opportunities starting Spring/Summer 2024
+👨‍💻 **Actively seeking full-time opportunities** in **backend** and **full-stack development**, starting December 2024.
 
 * 💡  Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
 * 🌍  I'm based in Boston, Massachusetts.
