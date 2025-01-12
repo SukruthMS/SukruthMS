@@ -1,7 +1,7 @@
 Hi there! I'm Sukruth M S
 ======================================================================================================================================================
 
- 💼 Software Developer |  🎓 Pursuing Master's in Computer Science at Northeastern University
+ 💼 Software Developer |  🎓 Master's in Computer Science from Northeastern University
 ----------------------------------------------------------------------------------------------
 
 🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
